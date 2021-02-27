@@ -34,6 +34,4 @@ ssm-demo
 
 ![20180211151831567174772.png](http://image.leeyom.top/20180211151831567174772.png)
 
-# 过程
 
-更具体的内容可以参考我博客文章：[《Maven的多模块 Spring MVC + Spring + Mybatis 项目的搭建》](http://www.leeyom.top/2017/08/01/tech-maven-multi-module-ssm/)，这里就不详述了。
